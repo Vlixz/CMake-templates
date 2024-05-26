@@ -1,0 +1,5 @@
+/home/vlixz/Projects/CMake/CMakeFiles/edit_cache.dir
+/home/vlixz/Projects/CMake/CMakeFiles/rebuild_cache.dir
+/home/vlixz/Projects/CMake/src/CMakeFiles/print.dir
+/home/vlixz/Projects/CMake/src/CMakeFiles/edit_cache.dir
+/home/vlixz/Projects/CMake/src/CMakeFiles/rebuild_cache.dir
